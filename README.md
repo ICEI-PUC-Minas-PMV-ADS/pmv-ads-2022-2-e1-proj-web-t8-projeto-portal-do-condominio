@@ -14,7 +14,7 @@ Aplicação para utilização dos moradores de condominio
 * Silvestre Castro
 * Marcelo Cortez
 * Lucas Salino
-* Ramon
+* Ramon Resende
 * João Victor
 
 ## Orientador

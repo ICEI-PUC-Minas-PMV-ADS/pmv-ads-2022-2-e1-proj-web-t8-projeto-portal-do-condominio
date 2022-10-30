@@ -31,4 +31,23 @@ Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;<br>
 Descompacte o arquivo em uma pasta específica;<br>
 Abra o Visual Studio Code e execute o Live Server;
 
+
+## Reclamações (RF-5)
+
+A tela que permite ao usuário registrar uma reclamação relacionada ao condomínio.
+
+![print da tela de reclamação](img/print_tela_reclame_aqui.png)
+
+### Requisitos atendidos
+- RF-05
+
+
+### Artefatos da funcionalidade
+- pgReclameAqui.html
+- script_pesquisa.js
+- style.css
+- apartament_logo.svg
+- icon-menu.png
+
+
   

@@ -5,31 +5,53 @@
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
-
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
+O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
+![image](https://user-images.githubusercontent.com/105026101/198895976-567a95c4-817d-43b1-818a-1a56df6125ec.png)
+Figura 2 - Fluxo de telas do usuário
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 3. Nesta estrutura, existem 2 grandes blocos, descritos a seguir. São eles:
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+●	Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
+
+●	Conteúdo - apresenta o conteúdo da tela em questão
+
+![image](https://user-images.githubusercontent.com/105026101/198896119-780ac999-e53d-4c9f-9cac-f132e8d1f2bd.png)
+
+Tela - Home-Page
+
+A tela de home-page mostra as ferramentas disponíveis no sistema, junto a uma breve descrição e o link de acesso. Como visto na figura 4.
+
+![image](https://user-images.githubusercontent.com/105026101/198896139-256e6611-3761-4ffe-b467-1d967ebbcbee.png)
+
+Tela - Financeiro
+
+Na tela Financeiro o usuário poderá escolher o ano que deseja visualizar a situação financeira do pagamento do condomínio. Com a escolha do ano, o usuário verá uma tabela com os pagamentos mensais, o status do pagamento e o botão para download da segunda via do boleto. Como visto na figura 5.
+
+![image](https://user-images.githubusercontent.com/105026101/198896162-de50fc7b-6466-4379-9b89-b3f583b2127d.png)
+
+Tela - Reclamações
+
+Nesta tela há um formulário para o usuário deixar sua reclamação ou sugestão para o síndico. Como visto na figura 6.
+
+![image](https://user-images.githubusercontent.com/105026101/198896168-900ffd8a-e382-4a4c-ab76-2ff3b88fabd9.png)
+
+Tela - Reservas
+
+A tela Reservas apresenta um calendário onde é possível visualizar datas onde o salão de festas do condomínio está livre. Também é possível, no mesmo calendário, reservar uma data. Como visto na figura 7.
+
+![image](https://user-images.githubusercontent.com/105026101/198896257-19f080c5-700f-44c4-8f7b-227d3b0a0d17.png)
+
+Tela - Avisos
+
+Nesta tela é possível visualizar os últimos avisos e reuniões agendadas no condomínio. Como visto na figura 8.
+
+![image](https://user-images.githubusercontent.com/105026101/198896271-631f41d3-ebdf-42c8-8929-1098fd5baf6e.png)
+
+

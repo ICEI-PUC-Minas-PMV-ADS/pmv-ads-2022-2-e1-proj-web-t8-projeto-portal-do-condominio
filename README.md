@@ -1,19 +1,21 @@
-# TÍTULO DO PROJETO
+# Portal Do Condominio
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
 
-`SEMESTRE`
+`EIXO 1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Aplicação para utilização dos moradores de condominio
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Lorena Rodrigues
+* Silvestre Castro
+* Marcelo Cortez
+* Lucas Salino
+* Ramon
+* João Victor
 
 ## Orientador
 

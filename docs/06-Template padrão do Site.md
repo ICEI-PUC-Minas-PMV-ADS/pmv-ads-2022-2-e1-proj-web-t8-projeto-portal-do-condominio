@@ -1,12 +1,15 @@
 # Template padrão do site
 
 Tela de Login
+
 ![image](https://user-images.githubusercontent.com/8716603/198900909-10be5752-2600-4c9f-ba33-cc7ddcf4165f.png)
 
-Tela de Cadastro usuario
+Tela de Cadastro de Usuários
+
 ![image](https://user-images.githubusercontent.com/8716603/198900965-a4703bf1-4a03-42ba-b2e9-ffe76f9047e2.png)
 
 Tela de Home
+
 ![image](https://user-images.githubusercontent.com/8716603/198903890-31447c31-67fd-4130-b121-848c0a0e979b.png)
 
 

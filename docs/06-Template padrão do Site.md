@@ -1,4 +1,10 @@
 # Template padrão do site
+Tela de Login
+![image](https://user-images.githubusercontent.com/8716603/198900909-10be5752-2600-4c9f-ba33-cc7ddcf4165f.png)
+Tela de Cadastro usuario
+![image](https://user-images.githubusercontent.com/8716603/198900965-a4703bf1-4a03-42ba-b2e9-ffe76f9047e2.png)
+
+
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 

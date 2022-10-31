@@ -8,12 +8,10 @@ Tela que permite o usuário realizar o login ou o registro na aplicação.
 ![image](https://user-images.githubusercontent.com/8716603/198911146-1f354a68-2d74-4d25-bbb1-9b9367532a17.png)
 
 <u>**Requisitos atendidos**</u>
-
 <li>RF-xx - O sistema deve cadastrar usuários.</li>
 <li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuario para acesso a aplicação.</li>
 
 <u>**Artefatos da funcionalidade**</u>
-
 - Tela Login.html
 - stylem.css
 - scriptcadastro.js
@@ -26,12 +24,10 @@ Tela que permite ao usuário acesse o termo de uso da aplicação.
 ![image](https://user-images.githubusercontent.com/8716603/198911515-7c73ab9e-4730-4c9f-8c4a-c18fb2be5699.png)
 
 <u>**Requisitos atendidos**</u>
-
 <li>RF-xx - O sistema deve cadastrar usuários.</li>
 <li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuários para acesso.</li>
 
 <u>**Artefatos da funcionalidade**</u>
-
 - Tela Cadastro.html
 - stylecadastro.css
 - scriptcadastro.js
@@ -45,12 +41,10 @@ Tela que permite o usuário visualiza os informativos do condomínio.
 ![image](https://user-images.githubusercontent.com/8716603/198911827-22789958-dbe3-4e6e-8477-2baab329c029.png)
 
 <u>**Requisitos atendidos**</u>
-
 <li>RF-xx - O sistema deve cadastrar usuários.</li>
 <li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuário para acesso..</li>
 
 <u>**Artefatos da funcionalidade**</u>
-
 - Tela Home.html
 - style-grid.css
 

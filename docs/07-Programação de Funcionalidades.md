@@ -16,6 +16,9 @@ Tela que permite o usuário realizar o login ou o registro na aplicação.
 - stylem.css
 - scriptcadastro.js
 
+<b> Estrutura de Dados </b> 
+![Captura de tela 2022-10-30 170517](https://user-images.githubusercontent.com/105026101/198901496-0cc5807c-65f4-462a-bc5e-3ca4d991cfe1.png)
+
 
 <h3> Tela de Cadastro </h3>
 

@@ -54,6 +54,8 @@ Tela que permite o usuário visualiza os informativos do condomínio.
 - Tela Home.html
 - style-grid.css
 
+![image](https://user-images.githubusercontent.com/8716603/198914315-c21b1872-8e66-4062-99d8-80c33eea7c45.png)
+
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
 
@@ -63,6 +65,7 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 Tela que permite ao condômino ter acesso aos boletos, podendo realizar o pagamento do mesmo, após baixa-lo e adquirir o código de barras. Também é possivel visualizar a situação dos pagamentos dos boletos, podendo estar: Em aberto, Pago, Em atraso ou Indisponível.
 
+<b> Estrutura de Dados </b> 
 ![image](https://user-images.githubusercontent.com/8716603/198912799-b09a59d9-5b0d-4cbe-a8e1-6aaef7e45197.png)
 
 

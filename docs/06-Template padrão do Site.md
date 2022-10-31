@@ -10,10 +10,12 @@ Tela de Cadastro de Usuários
 
 Tela de Home
 
-![image](https://user-images.githubusercontent.com/8716603/198903890-31447c31-67fd-4130-b121-848c0a0e979b.png)
+![image](https://user-images.githubusercontent.com/111549431/198910246-701d51ca-2ca9-4aaf-b878-88ca4cdfb3bd.png)
 
 Tela Financeiro
-![image](https://user-images.githubusercontent.com/8716603/198904603-9663d475-46c3-4cc2-b8ee-96e71a35c5c1.png)
+
+![image](https://user-images.githubusercontent.com/111549431/198910186-e1e59219-81b6-4285-939e-f09fa0d1f2a9.png)
+
 
 
 

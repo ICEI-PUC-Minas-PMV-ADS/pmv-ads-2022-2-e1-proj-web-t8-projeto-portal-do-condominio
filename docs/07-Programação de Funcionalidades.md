@@ -2,7 +2,7 @@
 
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema com a atribuição dos requisitos atendidos.
 
-- **Tela de Login**
+<h3> Tela de Login </h3>
 
 Tela que permite o usuário realizar o login ou o registro na aplicação.
 ![image](https://user-images.githubusercontent.com/8716603/198911146-1f354a68-2d74-4d25-bbb1-9b9367532a17.png)
@@ -19,7 +19,7 @@ Tela que permite o usuário realizar o login ou o registro na aplicação.
 - scriptcadastro.js
 
 
-- **Tela de Cadastro**
+<h3> Tela de Cadastro </h3>
 
 Tela que permite ao usuário realizar o registro na aplicação, o usuário devera fornecer um e-mail e senha.
 Tela que permite ao usuário acesse o termo de uso da aplicação.
@@ -38,7 +38,7 @@ Tela que permite ao usuário acesse o termo de uso da aplicação.
 
 
 
-- **Tela de Home  (RF–xx, RF–xx)**
+<h3> Tela de Home </h3>
 
 Tela que permite o usuário navegar pelos menus das paginas. 
 Tela que permite o usuário visualiza os informativos do condomínio.

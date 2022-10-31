@@ -32,8 +32,8 @@ Tela que permite ao usuário acesse o termo de uso da aplicação.
 
 <u>**Artefatos da funcionalidade**</u>
 
-- Tela Login.html
-- stylem.css
+- Tela Cadastro.html
+- stylecadastro.css
 - scriptcadastro.js
 
 
@@ -49,6 +49,10 @@ Tela que permite o usuário visualiza os informativos do condomínio.
 <li>RF-xx - O sistema deve cadastrar usuários.</li>
 <li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuário para acesso..</li>
 
+<u>**Artefatos da funcionalidade**</u>
+
+- Tela Home.html
+- style-grid.css
 
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>

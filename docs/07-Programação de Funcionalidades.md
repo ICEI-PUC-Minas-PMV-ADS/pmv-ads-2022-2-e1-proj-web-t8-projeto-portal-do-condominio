@@ -1,5 +1,32 @@
 # Programação de Funcionalidades
 
+Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema com a atribuição dos requisitos atendidos.
+
+- **Tela de Login (RF–xx, RF–xx)**
+
+Tela que permite ao usuário realizar o login ou o registro na aplicação.
+![image](https://user-images.githubusercontent.com/8716603/198911146-1f354a68-2d74-4d25-bbb1-9b9367532a17.png)
+
+<u>**Requisitos atendidos**</u>
+
+<li>RF-xx - O sistema deve cadastrar usuários.</li>
+<li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuario para acesso.</li>
+
+
+- **Tela de Cadastro (RF–xx, RF–xx)**
+
+Tela que permite ao usuário realizar o registro na aplicação, o usuário devera fornecer um e-mail e senha.
+Tela que permite ao usuário acesse o termo de uso da aplicação.
+![image](https://user-images.githubusercontent.com/8716603/198911515-7c73ab9e-4730-4c9f-8c4a-c18fb2be5699.png)
+
+
+<u>**Requisitos atendidos**</u>
+
+<li>RF-xx - O sistema deve cadastrar usuários.</li>
+<li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuario para acesso.</li>
+
+
+
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
 
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso não são apresentadas na sequência.

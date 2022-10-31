@@ -95,7 +95,7 @@ Abra o Visual Studio Code e execute o Live Server;
 
 A tela que permite ao usuário registrar uma reclamação relacionada ao condomínio.
 
-![print da tela de reclamação](img/print_tela_reclame_aqui.png)
+![image](https://user-images.githubusercontent.com/8716603/198915473-4f58067a-88b8-4e0c-908c-0f3a379dcdc9.png)
 
 ### Requisitos atendidos
 - RF-05

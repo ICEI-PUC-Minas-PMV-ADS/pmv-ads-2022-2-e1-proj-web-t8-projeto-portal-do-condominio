@@ -17,7 +17,7 @@ Tela que permite o usuário realizar o login ou o registro na aplicação.
 - scriptcadastro.js
 
 <b> Estrutura de Dados </b> 
-![Captura de tela 2022-10-30 170517](https://user-images.githubusercontent.com/105026101/198901496-0cc5807c-65f4-462a-bc5e-3ca4d991cfe1.png)
+![image](https://user-images.githubusercontent.com/8716603/198914101-5ecff467-b63e-493b-aef1-d1ced4e42ec6.png)
 
 
 <h3> Tela de Cadastro </h3>
@@ -34,6 +34,9 @@ Tela que permite ao usuário acesse o termo de uso da aplicação.
 - Tela Cadastro.html
 - stylecadastro.css
 - scriptcadastro.js
+
+<b> Estrutura de Dados </b> 
+![image](https://user-images.githubusercontent.com/8716603/198914193-9196dd73-c1e1-4c29-85df-d1b5517dd071.png)
 
 
 

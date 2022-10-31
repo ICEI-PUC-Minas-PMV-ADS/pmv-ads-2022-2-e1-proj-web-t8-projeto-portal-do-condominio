@@ -28,7 +28,7 @@ Tela que permite ao usuário acesse o termo de uso da aplicação.
 <u>**Requisitos atendidos**</u>
 
 <li>RF-xx - O sistema deve cadastrar usuários.</li>
-<li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuario para acesso.</li>
+<li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuários para acesso.</li>
 
 <u>**Artefatos da funcionalidade**</u>
 
@@ -40,14 +40,14 @@ Tela que permite ao usuário acesse o termo de uso da aplicação.
 
 - **Tela de Home  (RF–xx, RF–xx)**
 
-Tela que permite ao usuário navegar pelo menus da paginas. 
-Tela que permite ao usuário visualiza os informativos do condominio.
+Tela que permite o usuário navegar pelos menus das paginas. 
+Tela que permite o usuário visualiza os informativos do condomínio.
 ![image](https://user-images.githubusercontent.com/8716603/198911827-22789958-dbe3-4e6e-8477-2baab329c029.png)
 
 <u>**Requisitos atendidos**</u>
 
 <li>RF-xx - O sistema deve cadastrar usuários.</li>
-<li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuario para acesso.</li>
+<li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuário para acesso..</li>
 
 
 
@@ -59,7 +59,8 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 Tela que permite ao condômino ter acesso aos boletos, podendo realizar o pagamento do mesmo, após baixa-lo e adquirir o código de barras. Também é possivel visualizar a situação dos pagamentos dos boletos, podendo estar: Em aberto, Pago, Em atraso ou Indisponível.
 
-![Captura de tela 2022-10-30 165113](https://user-images.githubusercontent.com/105026101/198900986-37445d7c-d393-489b-9d03-2662e4ae4abd.png)
+![image](https://user-images.githubusercontent.com/8716603/198912799-b09a59d9-5b0d-4cbe-a8e1-6aaef7e45197.png)
+
 
 <b> Requisitos Atendidos </b>
 

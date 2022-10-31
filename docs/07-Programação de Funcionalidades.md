@@ -4,13 +4,13 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 - **Tela de Login**
 
-Tela que permite ao usuário realizar o login ou o registro na aplicação.
+Tela que permite o usuário realizar o login ou o registro na aplicação.
 ![image](https://user-images.githubusercontent.com/8716603/198911146-1f354a68-2d74-4d25-bbb1-9b9367532a17.png)
 
 <u>**Requisitos atendidos**</u>
 
 <li>RF-xx - O sistema deve cadastrar usuários.</li>
-<li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuario para acesso.</li>
+<li>RF-xx - O sistema deve solicitar o e-mail e a senha do usuario para acesso a aplicação.</li>
 
 <u>**Artefatos da funcionalidade**</u>
 

@@ -37,7 +37,7 @@ JavaScript;
 
 ## Hospedagem
 
-O site utiliza a plataforma do GitHub Pages como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL:
+O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL:
 
 https://projeto-condominio-eixo1.herokuapp.com/
 

@@ -45,10 +45,15 @@ Equipe de desenvolvimento: Joao vicor, Lorena Rodrigues, Lucas Salino e Ramon Re
 ### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
+
 ●     Sprint Backlog: Este é o Sprint atual que estamos trabalhando. As tarefas que deverão ser entregues no prazo de 1 semana.
+
 ●     Em andamento (Doing): Quando uma tarefa tiver sido iniciada, ela é movida para esta lista.
+
 ●     Em revisão: Quando as tarefas são concluídas, elas são movidas para esta lista, para serem revisadas antes da entrega.
+
 ●     Já feito (Done): nesta lista são colocadas as tarefas que passaram pela revisão e  estão prontas para ser entregues ao usuário. Não há mais edições ou modificações necessárias.
+
 ●     Concluído: Conforme as etapas do projeto vão sendo concluídas, colocamos um check para informar que foi entregue na data proposta.
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/invite/b/hhN6Q40h/8e3b20b6a8826823607465760a03a5ec/projeto-puc e é apresentado, no estado atual, na Figura 1.

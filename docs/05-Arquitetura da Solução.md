@@ -25,17 +25,19 @@ A solução implementada conta com os seguintes módulos:
 
 As tecnologias utilizadas para desenvolvimento da Aplicação Web Front-End são:
 
-Visual Studio Code
-Bootstrap
-GitHub
+- Visual Studio Code
+
+- Bootstrap
+
+- GitHub
 
 Para elaboração e desenvolvimento da Aplicação Web Front-End utilizamos as seguintes linguagens de programação e marcação:
 
-HTML;
+- HTML;
 
-CSS;
+- CSS;
 
-JavaScript;
+- JavaScript;
 
 ## Hospedagem
 

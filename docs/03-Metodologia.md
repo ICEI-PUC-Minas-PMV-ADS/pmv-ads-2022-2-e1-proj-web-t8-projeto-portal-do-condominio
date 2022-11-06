@@ -42,7 +42,7 @@ Scrum Master: Silvestre Castro
 
 Product Owner: Marcelo Cortez
 
-Equipe de desenvolvimento: Joao vicor, Lorena Rodrigues, Lucas Salino e Ramon Resende.
+Equipe de desenvolvimento: Joao victor, Lorena Rodrigues, Lucas Salino e Ramon Resende.
 
 ### Processo
 

@@ -29,10 +29,12 @@ Visual Studio Code
 Bootstrap
 GitHub
 
-Para elaboração e desenvolvimento da Aplicação Web Front-End utilizamos as seguintes linguagens de programação e marcarção:
+Para elaboração e desenvolvimento da Aplicação Web Front-End utilizamos as seguintes linguagens de programação e marcação:
 
 HTML;
+
 CSS;
+
 JavaScript;
 
 ## Hospedagem

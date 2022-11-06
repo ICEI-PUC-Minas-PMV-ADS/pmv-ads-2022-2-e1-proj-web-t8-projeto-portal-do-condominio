@@ -35,13 +35,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| O sistema deve conter um calendário interno, onde sejam armazenadas as datas e horários, e disponibilizados aos moradores, por meio de notificações, datas de reuniões. | ALTA | 
-|RF-02| O sistema deve conter um calendário onde os moradores podem solicitar datas de reuniões e encontros.   | MÉDIA |
-|RF-03| O sistema deve conter uma opção de “chamado”, onde seja disponibilizado um chat ou mandar uma notificação direto com o síndico. | MÉDIA |
-|RF-04| O sistema deve apresentar uma opção de solicitação de reserva, onde serão disponibilizadas datas nas quais os espaços destinados aos entretenimentos estarão disponíveis, como churrasqueira, salões, quadras e entre outros. | ALTA |
-|RF-05| O Sistema deve apresentar uma opção para finanças, onde o condomínio conseguirá realizar pagamentos de taxas, solicitação de boletos, datas dos próximos boletos, inadimplências e entre outros. | ALTA |
-|RF-06| O Sistema deve apresentar uma opção de “reclame aqui” onde poderá ser feitas reclamações, como barulho, luzes e qualquer outra forma de perturbação. Podendo ser gerado multas aos infratores. | ALTA |
-|RF-07| O Sistema contará com uma opção de melhorias, onde os moradores podem fazer sugestões para melhorias do condomínio.  | MÉDIA |
+|RF-01| O sistema deve conter uma tela inicial de login para poder acessar com usuário e senha, também conta botão de cadastro de usuário e recuperação de senha  | ALTA | 
+|RF-02| O sistema deve conter uma tela de cadastro de usuário para os moradores terem acesso ao sistema. | ALTA |
+|RF-03| O sistema deve conter uma tela de Home onde o usuário tem a opção de navegação do sistema e informativos do condomínio na tela inicial. | ALTA |
+|RF-04| O Sistema deve apresentar uma opção para finanças, onde o condomínio conseguirá realizar pagamentos de taxas, solicitação de boletos, datas dos próximos boletos, inadimplências e entre outros. | ALTA |
+|RF-05| O sistema deve apresentar uma opção de solicitação de reserva, onde serão disponibilizadas datas nas quais os espaços destinados aos entretenimentos estarão disponíveis, como churrasqueira, salões, quadras e entre outros | ALTA |
+|RF-5.1| O sistema deve conter um calendário interno, onde sejam armazenadas as datas e horários, e disponibilizados aos moradores, por meio de notificações, datas de reuniões.| ALTA |
+|RF-06| O sistema deve conter uma opção de “Sindico”, onde seja disponibilizado um chat ou mandar uma notificação direto com o síndico. | MÉDIA |
+|RF-07| O sistema deve conter uma opção de assembleia, onde poderá ser feito as reuniões de condomínio de forma online. | ALTA |
+|RF-08| O Sistema deve apresentar uma opção de “reclame aqui” onde poderá ser feitas reclamações, como barulho, luzes e qualquer outra forma de perturbação. Podendo ser gerado multas aos infratores. | ALTA |
+|RF-09| O sistema deve conter uma opção de “Sugestões”, onde seja disponibilizado um canal de sugestões para o condomínio. | ALTA |
 
 
 ### Requisitos não Funcionais

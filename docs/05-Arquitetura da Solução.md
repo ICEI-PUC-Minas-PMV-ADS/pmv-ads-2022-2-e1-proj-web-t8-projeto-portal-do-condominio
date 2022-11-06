@@ -43,8 +43,7 @@ Para elaboração e desenvolvimento da Aplicação Web Front-End utilizamos as s
 
 O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL:
 
-https://projeto-condominio-eixo1.herokuapp.com/
 
-A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
+A publicação do site no ___ é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t8-projeto-portal-do-condominio
+

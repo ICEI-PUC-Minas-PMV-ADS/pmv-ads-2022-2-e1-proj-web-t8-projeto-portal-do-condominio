@@ -39,7 +39,9 @@ Para gerenciamento do projeto utilizaremos a metodologia ágil scrum.
 Nossa equipe se encontra organizada da seguinte maneira:
 
 Scrum Master: Silvestre Castro
+
 Product Owner: Marcelo Cortez
+
 Equipe de desenvolvimento: Joao vicor, Lorena Rodrigues, Lucas Salino e Ramon Resende.
 
 ### Processo

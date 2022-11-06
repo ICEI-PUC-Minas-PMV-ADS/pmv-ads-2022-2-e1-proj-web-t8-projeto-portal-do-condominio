@@ -53,9 +53,9 @@ Na tela Financeiro o usuário poderá escolher o ano que deseja visualizar a sit
 
 Nesta tela há um formulário para o usuário deixar sua reclamação ou sugestão para o síndico. 
 
-![image](https://user-images.githubusercontent.com/105026101/200191067-7d548e22-6d78-4032-b411-3ddacaf7ce07.png
+![image](https://user-images.githubusercontent.com/105026101/200191202-2a7df285-b6e3-4489-acfa-6c3bbde102d2.png)
 
-<b< Tela - Sugestões </b>
+<b>Tela - Sugestões </b>
 
 ![image](https://user-images.githubusercontent.com/105026101/200191092-9a660f52-888e-4239-a656-5359e275987b.png)
 

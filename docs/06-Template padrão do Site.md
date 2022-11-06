@@ -16,18 +16,24 @@ Tela Financeiro
 
 ![image](https://user-images.githubusercontent.com/111549431/198910186-e1e59219-81b6-4285-939e-f09fa0d1f2a9.png)
 
+Tela Reservas
+
+![image](https://user-images.githubusercontent.com/105026101/200191435-14efa3db-709d-4199-8a94-2caab2873862.png)
+
+Tela Síndico 
+
+![image](https://user-images.githubusercontent.com/105026101/200191444-56060c75-6685-4a81-9206-c5bf9078f930.png)
+
+Tela Assembléias
+
+![image](https://user-images.githubusercontent.com/105026101/200191454-7e4de701-3638-4fa7-915c-682cdb005794.png)
+
+Tela Reclamações
+
+![image](https://user-images.githubusercontent.com/105026101/200191466-498a5a5d-47eb-40f2-a7ca-3e8b4a48d8ec.png)
+
+Tela Sugestões
+
+![image](https://user-images.githubusercontent.com/105026101/200191478-6f65f4f0-34dd-418a-8a14-61b67066e589.png)
 
 
-
-
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
-
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
-
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)

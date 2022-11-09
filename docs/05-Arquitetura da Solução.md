@@ -46,4 +46,6 @@ O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do pro
 
 A publicação do site no ___ é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
 
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t8-projeto-portal-do-condominio/src/projetogit/index.html
+
 

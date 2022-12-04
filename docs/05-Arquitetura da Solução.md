@@ -25,22 +25,27 @@ A solução implementada conta com os seguintes módulos:
 
 As tecnologias utilizadas para desenvolvimento da Aplicação Web Front-End são:
 
-Visual Studio Code
-Bootstrap
-GitHub
+- Visual Studio Code
 
-Para elaboração e desenvolvimento da Aplicação Web Front-End utilizamos as seguintes linguagens de programação e marcarção:
+- Bootstrap
 
-HTML;
-CSS;
-JavaScript;
+- GitHub
+
+Para elaboração e desenvolvimento da Aplicação Web Front-End utilizamos as seguintes linguagens de programação e marcação:
+
+- HTML;
+
+- CSS;
+
+- JavaScript;
 
 ## Hospedagem
 
-O site utiliza a plataforma do GitHub Pages como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL:
+O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL:
 
-https://projeto-condominio-eixo1.herokuapp.com/
 
-A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
+A publicação do site no ___ é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t8-projeto-portal-do-condominio
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t8-projeto-portal-do-condominio/src/projetogit/index.html
+
+

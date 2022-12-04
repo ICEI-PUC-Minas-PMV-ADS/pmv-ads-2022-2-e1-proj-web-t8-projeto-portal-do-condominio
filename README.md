@@ -1,10 +1,10 @@
 # Portal Do Condominio
 
-`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-`DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
+DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END
 
-`EIXO 1`
+EIXO 1
 
 Aplicação para utilização dos moradores de condominio
 
@@ -43,7 +43,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t8-projeto-portal-do-condominio/src/index.html
 
 # Armazenamento do Código-Fonte
 

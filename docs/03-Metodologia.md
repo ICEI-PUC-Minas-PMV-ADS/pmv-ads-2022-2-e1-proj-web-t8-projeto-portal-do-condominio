@@ -38,17 +38,28 @@ Para gerenciamento do projeto utilizaremos a metodologia ágil scrum.
 
 Nossa equipe se encontra organizada da seguinte maneira:
 
-Scrum Master: Silvestre Castro
-Product Owner: Marcelo Cortez
-Equipe de desenvolvimento: Joao vicor, Lorena Rodrigues, Lucas Salino e Ramon Resende.
+- Scrum Master: Silvestre Castro
+
+- Product Owner: Marcelo Cortez
+
+Equipe de desenvolvimento: 
+- Joao victor
+- Lorena Rodrigues
+- Lucas Salino 
+- Ramon Resende.
 
 ### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
+
 ●     Sprint Backlog: Este é o Sprint atual que estamos trabalhando. As tarefas que deverão ser entregues no prazo de 1 semana.
+
 ●     Em andamento (Doing): Quando uma tarefa tiver sido iniciada, ela é movida para esta lista.
+
 ●     Em revisão: Quando as tarefas são concluídas, elas são movidas para esta lista, para serem revisadas antes da entrega.
+
 ●     Já feito (Done): nesta lista são colocadas as tarefas que passaram pela revisão e  estão prontas para ser entregues ao usuário. Não há mais edições ou modificações necessárias.
+
 ●     Concluído: Conforme as etapas do projeto vão sendo concluídas, colocamos um check para informar que foi entregue na data proposta.
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/invite/b/hhN6Q40h/8e3b20b6a8826823607465760a03a5ec/projeto-puc e é apresentado, no estado atual, na Figura 1.
@@ -64,9 +75,5 @@ As ferramentas empregadas no projeto são:
 - Ferramentas de comunicação - Teams
 - Ferramentas de desenho de tela (_wireframing_) - MarvelApp
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 

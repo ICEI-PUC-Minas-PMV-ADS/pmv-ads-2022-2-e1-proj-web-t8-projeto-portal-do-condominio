@@ -11,7 +11,8 @@ O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário pel
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
-![image](https://user-images.githubusercontent.com/105026101/198895976-567a95c4-817d-43b1-818a-1a56df6125ec.png)
+![image](https://user-images.githubusercontent.com/105026101/200190658-a0ff8c9d-5eda-4f9a-bbc5-9fa2d923bede.png)
+
 Figura 2 - Fluxo de telas do usuário
 
 ## Wireframes
@@ -24,34 +25,53 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 ![image](https://user-images.githubusercontent.com/105026101/198896119-780ac999-e53d-4c9f-9cac-f132e8d1f2bd.png)
 
-Tela - Home-Page
+<b> Tela - Login </b>
 
-A tela de home-page mostra as ferramentas disponíveis no sistema, junto a uma breve descrição e o link de acesso. Como visto na figura 4.
+A tela de Login apresenta uma caixa no centro da tela onde é possível fazer o login no sistema preenchendo os campos de e-mail e senha, também é possível fazer o cadastro do usuário e a recuperação da senha. 
 
-![image](https://user-images.githubusercontent.com/105026101/198896139-256e6611-3761-4ffe-b467-1d967ebbcbee.png)
+![image](https://user-images.githubusercontent.com/105026101/200190734-54650bcb-2700-4891-8e89-104fd3b8cfa0.png)
 
-Tela - Financeiro
+<b>Tela Cadastro</b>
 
-Na tela Financeiro o usuário poderá escolher o ano que deseja visualizar a situação financeira do pagamento do condomínio. Com a escolha do ano, o usuário verá uma tabela com os pagamentos mensais, o status do pagamento e o botão para download da segunda via do boleto. Como visto na figura 5.
+A tela de Login apresenta uma caixa no centro da tela onde é possível fazer o login no sistema preenchendo os campos de e-mail e senha, também é possível fazer o cadastro do usuário e a recuperação da senha.
 
-![image](https://user-images.githubusercontent.com/105026101/198896162-de50fc7b-6466-4379-9b89-b3f583b2127d.png)
+![image](https://user-images.githubusercontent.com/105026101/200190821-c5f8e0ed-6792-4a7a-82a4-e87734b4a5c8.png)
 
-Tela - Reclamações
+<b>Tela - Home-Page</b>
 
-Nesta tela há um formulário para o usuário deixar sua reclamação ou sugestão para o síndico. Como visto na figura 6.
+A tela de home-page mostra as ferramentas disponíveis no sistema, junto a uma breve descrição e o link de acesso. 
 
-![image](https://user-images.githubusercontent.com/105026101/198896168-900ffd8a-e382-4a4c-ab76-2ff3b88fabd9.png)
+![image](https://user-images.githubusercontent.com/105026101/200190858-b2e5a7c2-f66a-4d9b-8553-4ce446563df3.png)
 
-Tela - Reservas
+<b>Tela - Financeiro</b>
 
-A tela Reservas apresenta um calendário onde é possível visualizar datas onde o salão de festas do condomínio está livre. Também é possível, no mesmo calendário, reservar uma data. Como visto na figura 7.
+Na tela Financeiro o usuário poderá escolher o ano que deseja visualizar a situação financeira do pagamento do condomínio. Com a escolha do ano, o usuário verá uma tabela com os pagamentos mensais, o status do pagamento e o botão para download da segunda via do boleto. 
 
-![image](https://user-images.githubusercontent.com/105026101/198896257-19f080c5-700f-44c4-8f7b-227d3b0a0d17.png)
+![image](https://user-images.githubusercontent.com/105026101/200190888-56399161-3146-4fa9-9395-73d6244130de.png)
 
-Tela - Avisos
+<b>Tela - Reclamações</b>
 
-Nesta tela é possível visualizar os últimos avisos e reuniões agendadas no condomínio. Como visto na figura 8.
+Nesta tela há um formulário para o usuário deixar sua reclamação ou sugestão para o síndico. 
 
-![image](https://user-images.githubusercontent.com/105026101/198896271-631f41d3-ebdf-42c8-8929-1098fd5baf6e.png)
+![image](https://user-images.githubusercontent.com/105026101/200191202-2a7df285-b6e3-4489-acfa-6c3bbde102d2.png)
+
+<b>Tela - Sugestões </b>
+
+![image](https://user-images.githubusercontent.com/105026101/200191092-9a660f52-888e-4239-a656-5359e275987b.png)
+
+<b>Tela - Reservas</b>
+
+A tela Reservas apresenta um calendário onde é possível visualizar datas onde o salão de festas do condomínio está livre. Também é possível, no mesmo calendário, reservar uma data.
+
+![image](https://user-images.githubusercontent.com/105026101/200190937-fdf122c2-c3bc-4d15-a665-0e85a6e32d47.png)
+
+<b> Tela Síndico</b>
+
+![image](https://user-images.githubusercontent.com/105026101/200191026-84e9238b-e446-422a-b2c2-70cd01926bf3.png)
+
+<b> Tela - Assembléias </b>
+
+![image](https://user-images.githubusercontent.com/105026101/200191046-ef54c1b7-2f94-4ead-a3c8-c2697b24d4c5.png)
+
 
 

@@ -1,19 +1,12 @@
-# Plano de Testes de Software
+8. Plano Teste de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+Nesta seção são apresentados alguns cenários de teste da aplicação web, os requisitos para realização dos teste estão descritas nas tabelas abaixo.
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+![image](https://user-images.githubusercontent.com/8716603/205521918-0c28012e-2db5-401a-bd35-41e8d829afba.png)
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+ ![image](https://user-images.githubusercontent.com/8716603/205521997-27b967d9-20c5-4709-9986-ba84dc40e4bf.png)
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+![image](https://user-images.githubusercontent.com/8716603/205522025-16ce942d-c1ae-4d97-a620-6c61db2e9b2d.png)
+
+![image](https://user-images.githubusercontent.com/8716603/205522049-1dd83c5b-877f-419c-8249-2996ac7d1b18.png)
+

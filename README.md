@@ -43,7 +43,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t8-projeto-portal-do-condominio/src/projetogit/1%20Tela%20Login
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t8-projeto-portal-do-condominio/src/index.html
 
 # Armazenamento do Código-Fonte
 

@@ -9,15 +9,6 @@
     
 }
 
-.nav-bar {}
-
-ul {
-    display: flex;
-    list-style: none;
-    border-bottom: 1px solid #dddd;
-
-}
-
 li {
     padding: 12px 15px;
 
@@ -65,7 +56,6 @@ option {
 
 a img {
     height: 30px;
-    background-color: #fff;
 }
 
 

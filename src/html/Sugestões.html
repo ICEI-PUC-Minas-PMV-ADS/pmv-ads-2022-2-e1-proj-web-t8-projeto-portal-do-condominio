@@ -4,7 +4,10 @@
 	<title>Sugestões</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="../css/style-grid.css">
+	<link rel="stylesheet" href="../css/stylesilvestre.css">
 </head>
+
+
 <body>
 	<input type="checkbox" id="checkbox">
 	<header class="header">
@@ -13,9 +16,9 @@
 				<i id="navbtn" class="fa fa-bars" aria-hidden="true"></i>
 			</label>
 		</h2>
-			<a href="../index.html">
-				<i class="fa fa-power-off" aria-hidden="true"></i>
-			</a>
+            <a href="../index.html">
+		        <i class="fa fa-power-off" aria-hidden="true"></i>
+            </a>
 	</header>
 	<div class="body">
 		<nav class="side-bar">
@@ -24,45 +27,34 @@
 				
 			</div>
 			<ul>
-				<li>
+                <li>
 					<a href="Home.html">
 						<i class="fa fa-home" aria-hidden="true"></i> 
 						<span>Home</span>
 					</a>
 				</li>
-                <li>
+                
+				<li>
 					<a href="Financeiro.html">
 						<i class="fa fa-money" aria-hidden="true"></i> 
 						<span>Financeiro</span>
 					</a>
 				</li>
-
-				<li>
-					<a href="Reserva.html">
-						<i class="fa fa-calendar-check-o" aria-hidden="true"></i>
-						<span>Reservas</span>
-					</a>
-				</li>
+				
 				<li>
 					<a href="Sindico.html">
 						<i class="fa fa-user-circle" aria-hidden="true"></i>
 						<span>Sindico</span>
 					</a>
 				</li>
+				
+				
 				<li>
-					<a href="Assembleias.html">
-						<i class="fa fa-users" aria-hidden="true"></i>
-						<span>Assembleias</span>
-					</a>
-				</li>
-                <li>
 					<a href="Reclamaçoes.html">
 						<i class="fa fa-hand-o-right" aria-hidden="true"></i>
-						<span>Reclame Aqui</span>
+						<span>Reclamações</span>
 					</a>
 				</li>
-			
-			
 			</ul>
 		</nav>
 		<section class="section-reclame">
@@ -70,17 +62,31 @@
 <main> 
     <article>
 
-        <h1>Sugestões</h1>
+        <h1>Canal de Sugestões</h1>
 
-        <form action="#">
+        <form action="Home.html">
+
+
+            
+            <div class="form-row">
+                <label for="assunto">Tema:</label>
+                <select name="assunto" id="campoAssunto">
+                    <option value="bararulho">Portaria</option>
+                    <option value="correspondencia">Garagem</option>
+                    <option value="limpeza">Quadra</option>
+                    <option value="vagas">Piscina</option>
+                    <option value="vazamento">Jardim</option>
+                    <option value="outros">Blocos</option>
+                </select>
+            </div>
 
             <div class="form-row">
-                <label for="titulo">Título:</label>
+                <label for="titulo">Assunto:</label>
                 <input type="text" name="titulo" id="campoTitulo" required>
             </div>
 
             <div class="form-row" id="textarea-row">
-                <label for="descricao">Conte mais sobre sua reclamação:</label>
+                <label for="descricao">Descrição da sugestão:</label>
                 <br>
                 <textarea name="descricao" id="campoDescricao" cols="30" rows="10"></textarea>
             </div>
@@ -177,6 +183,3 @@
 
 
 
-
-
-            

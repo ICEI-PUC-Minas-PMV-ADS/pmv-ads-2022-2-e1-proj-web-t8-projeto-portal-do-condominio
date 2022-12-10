@@ -21,7 +21,7 @@ a {
 }
 body {
     margin-top: 10vh;
-    background-image: url('./img/cidade2.jpg');
+    background-image: url('../img/cidade2.jpg');
     background-size: cover;
   
 }

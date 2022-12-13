@@ -21,9 +21,9 @@ function entrar(){
   let listaUser = []
   
   let userValid = {
-    nome: '',
-    user: '',
-    senha: ''
+    nome: null,
+    user: null,
+    senha: null
   }
   
   listaUser = JSON.parse(localStorage.getItem('listaUser'))
@@ -40,7 +40,7 @@ function entrar(){
     }
   })
    
-  if(usuario.value == userValid.user && senha.value == userValid.senha){
+  if(usuario.value == userValid.user && senha.value == userValid.senha){   //se usuario for correto direcionar para a pagina home
     window.location.href = '././html/Home.html'
     
     let mathRandom = Math.random().toString(16).substr(2)

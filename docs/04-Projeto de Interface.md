@@ -59,19 +59,9 @@ Nesta tela há um formulário para o usuário deixar sua reclamação ou sugest�
 
 ![image](https://user-images.githubusercontent.com/105026101/200191092-9a660f52-888e-4239-a656-5359e275987b.png)
 
-<b>Tela - Reservas</b>
-
-A tela Reservas apresenta um calendário onde é possível visualizar datas onde o salão de festas do condomínio está livre. Também é possível, no mesmo calendário, reservar uma data.
-
-![image](https://user-images.githubusercontent.com/105026101/200190937-fdf122c2-c3bc-4d15-a665-0e85a6e32d47.png)
-
 <b> Tela Síndico</b>
 
 ![image](https://user-images.githubusercontent.com/105026101/200191026-84e9238b-e446-422a-b2c2-70cd01926bf3.png)
-
-<b> Tela - Assembléias </b>
-
-![image](https://user-images.githubusercontent.com/105026101/200191046-ef54c1b7-2f94-4ead-a3c8-c2697b24d4c5.png)
 
 
 

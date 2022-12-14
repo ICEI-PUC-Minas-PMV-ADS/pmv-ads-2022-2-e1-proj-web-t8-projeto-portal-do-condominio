@@ -16,17 +16,9 @@ Tela Financeiro
 
 ![image](https://user-images.githubusercontent.com/111549431/198910186-e1e59219-81b6-4285-939e-f09fa0d1f2a9.png)
 
-Tela Reservas
-
-![image](https://user-images.githubusercontent.com/105026101/200191435-14efa3db-709d-4199-8a94-2caab2873862.png)
-
 Tela Síndico 
 
 ![image](https://user-images.githubusercontent.com/105026101/200191444-56060c75-6685-4a81-9206-c5bf9078f930.png)
-
-Tela Assembléias
-
-![image](https://user-images.githubusercontent.com/105026101/200191454-7e4de701-3638-4fa7-915c-682cdb005794.png)
 
 Tela Reclamações
 
